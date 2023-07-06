@@ -1,4 +1,7 @@
-# uas_prakpbkrakhel
+# UAS LAB PBK
+# Nama   : RAKHEL SYAHRANI NAZWA 
+# Npm    : 213510590
+# Kelas  : 4A
 
 ## Project setup
 ```
